@@ -1,1 +1,0 @@
-/Users/onkareshwar.veer/Downloads/NewsAppDemo/buildSrc/build/classes/kotlin/main/NewsAppDependencies.class:/Users/onkareshwar.veer/Downloads/NewsAppDemo/buildSrc/build/classes/kotlin/main/Versions.class
