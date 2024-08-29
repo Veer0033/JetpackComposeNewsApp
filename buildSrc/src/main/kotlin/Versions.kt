@@ -1,0 +1,43 @@
+/**
+ * Created by Omkar Veer on 28/08/24.
+ */
+
+object Versions {
+    const val coreKtx = "1.6.0"
+    const val appCompat = "1.6.1"
+    const val material = "1.9.0"
+    const val constraintLayout = "2.1.4"
+    const val fragmentKtx = "1.6.0"
+    const val loggingInterceptor = "4.9.1"
+    const val lifecycleViewModel = "2.6.1"
+    const val room = "2.5.2"
+    const val coroutinesCore = "1.6.4"
+    const val coroutinesAndroid = "1.6.4"
+    const val lifecycleRuntime = "2.6.0"
+    const val retrofit = "2.9.0"
+    const val converterGson = "2.9.0"
+    const val interceptor = "4.5.0"
+    const val navigationFragment = "2.6.0"
+    const val navigationUi = "2.6.0"
+    const val daggerHilt = "2.44"
+    const val hiltCommon = "1.1.0"
+    const val pagingRuntime = "3.2.1"
+    const val pagingCompose = "3.3.0-alpha02"
+    const val activityCompose = "1.7.2"
+    const val composeBom = "2023.03.00"
+    const val composeUi = "1.4.3"
+    const val composeMaterial3 = "1.1.2"
+    const val composeMaterial = "1.5.4"
+    const val coilCompose = "2.4.0"
+    const val composeLifecycle = "2.6.2"
+    const val hiltNavigationCompose = "1.0.0"
+    const val navigationCompose = "2.6.0"
+    const val junit = "4.13.2"
+    const val extJunit = "1.1.5"
+    const val espressoCore = "3.5.1"
+    const val mockito = "5.3.1"
+    const val coreTesting = "2.2.0"
+    const val coroutinesTest = "1.7.3"
+    const val turbine = "0.12.1"
+}
+
